@@ -1,0 +1,16 @@
+{
+  "profiles": [
+    {
+      "profile_id": "1",
+      "username": "Renata",
+      "password": "1234",
+      "role": "Admin"
+    },
+    {
+      "profile_id": "2",
+      "username": "John Doe",
+      "password": "111",
+      "role": "Member"
+    }
+  ]
+}
