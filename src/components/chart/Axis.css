@@ -1,0 +1,9 @@
+.Axis path,
+.Axis line {
+  stroke: #e0e0e0;
+}
+
+.Axis text {
+  font-size: 11px;
+  fill: black;
+}

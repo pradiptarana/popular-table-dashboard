@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Header from "./Header";
+import Header from "./inc/Header";
 import Chart from "./chart/Chart";
 
 class List extends Component {
