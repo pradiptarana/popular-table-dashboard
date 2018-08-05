@@ -1,0 +1,20 @@
+{
+  "tables": [
+    {
+      "name": "gofood_booking",
+      "likes": [{ "profile_id": "1" }, { "profile_id": "2" }, { "profile_id": "3" }, { "profile_id": "5" }]
+    },
+    {
+      "name": "goride_booking",
+      "likes": [{ "profile_id": "1" }, { "profile_id": "2" }, { "profile_id": "5" }]
+    },
+    {
+      "name": "gocar_booking",
+      "likes": [{ "profile_id": "1" }, { "profile_id": "2" }]
+    },
+    {
+      "name": "goglam_booking",
+      "likes": [{ "profile_id": "1" }]
+    }
+  ]
+}
