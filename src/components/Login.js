@@ -70,7 +70,6 @@ class Login extends Component {
       }
     }
     if (loginSuccess) {
-      // browserHistory.push("/list");
       this.setAlert("Login success", "success");
       window.location.href = "/list";
     } else {
