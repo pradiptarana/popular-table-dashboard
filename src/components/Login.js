@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./../App.css";
 import profile from "./../dummydata/profile.json";
 import { browserHistory } from "react-router";
-import Alert from "./Alert";
+import Alert from "./inc/Alert";
 
 var fs = require("fs");
 

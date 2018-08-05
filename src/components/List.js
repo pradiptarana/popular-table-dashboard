@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Header from "./Header";
+import Header from "./inc/Header";
 import table from "./../dummydata/tables.json";
 class List extends Component {
   constructor(props) {
